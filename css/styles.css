@@ -668,4 +668,7 @@ footer {
     font-size: 0.9em;
     padding: 150px 10px;
   }
+  #container {
+    padding: 150px 10px;
+  }
 }
