@@ -650,6 +650,12 @@ footer {
   .vtimeline-content {
     margin-left: 70px;
   }
+    #lead {
+    height: auto;
+    min-height: auto;
+    max-height: auto;
+    padding: 350px 15px;
+  }
 }
 @media only screen and (max-width: 992px) {
   #lead {
