@@ -406,49 +406,8 @@ footer {
   font-weight: 350;
   color: #000000;
 }
-/* ------------------------------- ----- 7. Education Styles ----- ------------------------------- */
-#education {
-  padding: 50px 15px 20px 15px;
-  border-bottom: 1px solid #dcd9d9;
-  text-align: center;
-}
-#education h2 {
-  color: #374054;
-  margin-bottom: 50px;
-}
-.education-block {
-  max-width: 700px;
-  margin: 0 auto 30px auto;
-  padding: 15px;
-  border: 1px solid #dcd9d9;
-  text-align: left;
-}
-.education-block h3 {
-  font-weight: 500;
-  float: left;
-  margin: 0;
-  color: #374054;
-}
-.education-block span {
-  color: #74808a;
-  float: right;
-}
-.education-block h4 {
-  color: #74808a;
-  clear: both;
-  font-weight: 500;
-  margin: 0 0 15px 0;
-}
-.education-block p,
-.education-block ul {
-  margin: 0;
-  color: #74808a;
-  font-size: 0.9em;
-}
-.education-block ul {
-  padding: 0 0 0 15px;
-}
-/* ------------------------------- ----- 8. Project Styles ----- ------------------------------- */
+
+/* ------------------------------- ----- 7. Project Styles ----- ------------------------------- */
 #projects {
   padding: 80px 15px;
   border-bottom: 1px solid #dcd9d9;
@@ -497,9 +456,9 @@ footer {
 #more-projects {
   display: none;
 }
-/* ------------------------------- ----- 9. Skills Styles ----- ------------------------------- */
+/* ------------------------------- ----- 8. Skills Styles ----- ------------------------------- */
 #skills {
-  padding: 90px 15px;
+  padding: 100px 15px;
   text-align: center;
   background-color: #ffe08a;
 }
@@ -593,43 +552,7 @@ footer {
 #contact-form button:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
-/* --------------------------------------- ----- 11. Optional Section Styles ----- --------------------------------------- */
-.optional-section {
-  padding: 50px 15px;
-  text-align: center;
-  border-top: 1px solid #dcd9d9;
-}
-.optional-section h2 {
-  color: #374054;
-}
-.optional-section-block {
-  max-width: 700px;
-  margin: 0 auto 30px auto;
-  padding: 15px;
-  border: 1px solid #dcd9d9;
-  background: #fff;
-  text-align: left;
-}
-.optional-section-block h3 {
-  font-weight: 500;
-  margin: 0 0 15px 0;
-  color: #374054;
-}
-.optional-section-block h4 {
-  color: #74808a;
-  clear: both;
-  font-weight: 500;
-  margin: 0 0 15px 0;
-}
-.optional-section-block p,
-.optional-section-block ul {
-  margin: 0 0 15px 0;
-  color: #74808a;
-  font-size: 0.9em;
-}
-.optional-section-block ul {
-  padding: 0 0 0 15px;
-}
+
 /* ----------------------------- ----- 12. Media Queries ----- ----------------------------- */
 @media only screen and (max-width: 750px) {
   #experience-timeline:before,
@@ -650,19 +573,13 @@ footer {
   .vtimeline-content {
     margin-left: 70px;
   }
-    #lead {
-    height: auto;
-    min-height: auto;
-    max-height: auto;
-    padding: 350px 15px;
-  }
 }
 @media only screen and (max-width: 992px) {
   #lead {
     height: auto;
     min-height: auto;
     max-height: auto;
-    padding: 350px 15px;
+    padding: 250px 15px;
   }
   #lead-content {
     position: relative;
@@ -749,6 +666,6 @@ footer {
   }
   #lead-content a {
     font-size: 0.9em;
-    padding: 5px 10px;
+    padding: 150px 10px;
   }
 }
