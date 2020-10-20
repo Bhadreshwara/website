@@ -666,15 +666,16 @@ footer {
   }
   #lead-content {
     font-size: 0.9em;
-    padding: 45px 10px;
+    padding: 104px 10px;
   }
-  #about {
-    padding: 180px 10px;
+  .about-content {
+    padding: 104px 10px;
   }
+
   #skills ul {
-    padding: 85px 10px;
+    padding: 125px 10px;
   }
   #contact-form {
-    padding: 95px 10px;
+    padding: 55px 10px;
   }
 }
