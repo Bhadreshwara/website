@@ -297,7 +297,7 @@ footer {
 }
 /* --------------------------- ----- 5. About Styles ----- --------------------------- */
 #about {
-  padding: 160px 15px;
+  padding: 360px 15px;
   border-bottom: 1px solid #dcd9d9;
   background-color: #ed5e93;
 }
@@ -458,7 +458,7 @@ footer {
 }
 /* ------------------------------- ----- 8. Skills Styles ----- ------------------------------- */
 #skills {
-  padding: 100px 15px;
+  padding: 360px 15px;
   text-align: center;
   background-color: #ffe08a;
 }
@@ -485,7 +485,7 @@ footer {
 }
 /* ------------------------------- ----- 10. Contact Styles ----- ------------------------------- */
 #contact {
-  padding: 90px 15px;
+  padding: 160px 15px;
   background: #3b4856;
   text-align: center;
 }
