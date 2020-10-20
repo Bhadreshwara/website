@@ -235,7 +235,7 @@ footer {
 }
 #lead-content h1 {
   color: #fff;
-  font-weight: 800;
+  font-weight: 550;
   font-size: 3em;
 
   letter-spacing: 0.05em;
@@ -244,8 +244,8 @@ footer {
 }
 #lead-content h2 {
   color: #ffffff;
-  font-weight: 400;
-  font-size: 2.05em;
+  font-weight: 300;
+  font-size: 2em;
   margin-bottom: 10px;
 }
 #lead-overlay {
@@ -297,7 +297,7 @@ footer {
 }
 /* --------------------------- ----- 5. About Styles ----- --------------------------- */
 #about {
-  padding: 155px 15px;
+  padding: 160px 15px;
   border-bottom: 1px solid #dcd9d9;
   background-color: #ed5e93;
 }
@@ -307,6 +307,7 @@ footer {
 #about p {
   color: #000000;
   margin: 0;
+  font-size: 1.3em;
 }
 
 /* -------------------------------- ----- 6. Experience Styles ----- -------------------------------- */
@@ -655,7 +656,7 @@ footer {
     height: auto;
     min-height: auto;
     max-height: auto;
-    padding: 300px 15px;
+    padding: 240px 15px;
   }
   #lead-content {
     position: relative;
@@ -664,7 +665,7 @@ footer {
     top: auto;
   }
   #lead-content h1 {
-    font-size: 2.5em;
+    font-size: 2.05em;
   }
   #lead-content h2 {
     font-size: 1.75em;
