@@ -297,7 +297,7 @@ footer {
 }
 /* --------------------------- ----- 5. About Styles ----- --------------------------- */
 #about {
-  padding: 360px 15px;
+  padding: 350px 15px;
   border-bottom: 1px solid #dcd9d9;
   background-color: #ed5e93;
 }
@@ -595,6 +595,11 @@ footer {
   }
   #about {
     text-align: center;
+    padding: 250px 15px;
+  }
+  #skills {
+    text-align: center;
+    padding: 140px 15px;
   }
   #about p {
     text-align: left;
@@ -641,14 +646,21 @@ footer {
     float: none;
   }
   .project-image {
-    display: none;
+    float: left;
+  }
+  .project-image img {
+    width: 45%;
+    height: 45%;
+    float: left;
   }
   .project-info {
     position: relative;
     margin: 0;
-    padding: 30px 15px;
+    padding: 20px 10px;
     top: auto;
     transform: none;
+    font-size: 17px;
+    float: right;
   }
   footer {
     text-align: center;
@@ -669,13 +681,24 @@ footer {
     padding: 104px 10px;
   }
   .about-content {
-    padding: 104px 10px;
+    padding: 10px 10px;
+  }
+  #about {
+    text-align: center;
+    padding: 250px 15px;
+  }
+  #skills {
+    text-align: center;
+    padding: 140px 15px;
   }
 
   #skills ul {
-    padding: 125px 10px;
+    padding: 95px 10px;
   }
   #contact-form {
-    padding: 55px 10px;
+    padding: 40px 10px;
+  }
+  .project-image {
+    float: left;
   }
 }
